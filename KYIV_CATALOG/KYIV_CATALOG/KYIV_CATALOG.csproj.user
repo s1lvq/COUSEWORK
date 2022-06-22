@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AutoSchools\AddAutoSchoolForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AutoSchools\AutoSchoolForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EngSchool\AddEngSchoolForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EngSchool\EngSchoolForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KinderGarden\AddKinderGardenForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KinderGarden\KinderGardenForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Printery\AddPrinteryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Printery\PrinteryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

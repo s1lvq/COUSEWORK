@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "G4a2qJBj3Wis3xmYyo87qb/c0Khg1PPNFWw9nZEdQ5E32Vyj5YfWXZaR1yg9PASAZA7lfE500CSdo7YHVLVJZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pogoriladaria\\source\\repos\\KYIV_CATALOG\\KYIV_CATALOG\\KYIV_CATALOG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pogoriladaria\\.nuget\\packages\\activequerybuilder.core\\3.8.26.2227\\activequerybuilder.core.3.8.26.2227.nupkg.sha512",
+    "C:\\Users\\pogoriladaria\\.nuget\\packages\\activequerybuilder.oledbmetadataprovider\\3.8.26.2227\\activequerybuilder.oledbmetadataprovider.3.8.26.2227.nupkg.sha512",
+    "C:\\Users\\pogoriladaria\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\pogoriladaria\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\pogoriladaria\\.nuget\\packages\\system.data.oledb\\6.0.0\\system.data.oledb.6.0.0.nupkg.sha512",
+    "C:\\Users\\pogoriladaria\\.nuget\\packages\\system.diagnostics.performancecounter\\6.0.0\\system.diagnostics.performancecounter.6.0.0.nupkg.sha512",
+    "C:\\Users\\pogoriladaria\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\pogoriladaria\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\pogoriladaria\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\pogoriladaria\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\pogoriladaria\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\pogoriladaria\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.6\\microsoft.netcore.app.host.win-x86.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
